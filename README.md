@@ -1,2 +1,2 @@
 # supermarket
-Complete Supermarket application using java
+Complete Supermarket application using Java and MySql
